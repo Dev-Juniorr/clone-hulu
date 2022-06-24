@@ -1,4 +1,4 @@
-Hola 👋 les quiero mostrar uno de mis primeros proyectos en Nextjs
+NEXTJS 👋 CLONE DE HULU
 =================================================
 
 Descripción
