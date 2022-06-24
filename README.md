@@ -5,8 +5,9 @@ Descripción
 ------
 
 Este proyecto basa en un Clone de Hulu, una plataforma de peliculas!
+Para poder ver el Projecto - DOWNLOAD
 
-* 🖥️  Link del proyecto en vivo! [Repocitorio!](http://myapp.com)
+* 🖥️  Descarga el proyecto y usa: npm run dev
 
 ### Lenguajes, Frameworks!
 
